@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952389833391",
+    "project_id": "taskotp-b85fd",
+    "storage_bucket": "taskotp-b85fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952389833391:android:a8d49141d164e597dffa5a",
+        "android_client_info": {
+          "package_name": "com.sundar.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952389833391-s6fqed22bab7g7ij8c8og3bpn2olal82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-LCSNUT0FNpAahONgaFBEyyVgKMWAts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952389833391-s6fqed22bab7g7ij8c8og3bpn2olal82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

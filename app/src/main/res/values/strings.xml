@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Task</string>
+
+    <string name="continue_with_phone">Continue with phone</string>
+    <string name="continue_with_facebook">Continue with facebook</string>
+    <string name="continue_with_google">Continue with google</string>
+    <string name="continue_with_email">Continue with email</string>
+    <string name="term_condition_and_privacy_police"><u>Term and condition and privacy policy</u></string>
+    <string name="google_login_succesfull">Google login succesfull</string>
+    <string name="google_facebook_succesfull">Facebook login succesfull</string>
+    <string name="nintyone">+91</string>
+    <string name="enter_the_mobile_here">Enter your mobile number here</string>
+    <string name="send">Send</string>
+    <string name="otp">OTP</string>
+    <string name="enter_the_otp_you_receive_to">Enter the OTP you receive to</string>
+    <string name="num">+91 98888xxxxx</string>
+    <string name="resend_code_by_call"><u>Resend code by call</u></string>
+    <string name="enter_valid_otp">Enter valid otp</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="ten_digit">Enter 10 digits mobile number</string>
+    <string name="bangaluru_karnataka">Bangaluru,karnataka</string>
+    <string name="find">Find</string>
+    <string name="browse_categories">Browse categories</string>
+    <string name="recommendation_for_you">Recommendation for you</string>
+    <string name="more">More</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="logistic">Logistic</string>
+    <string name="profile">Profile</string>
+    <string name="post">Post</string>
+    <string name="rent">Rent</string>
+    <string name="sale">Sale</string>
+    <string name="purchase">Purchase</string>
+    <string name="lease">Lease</string>
+    <string name="to_let">To-let</string>
+    <string name="furnished">Furnished</string>
+    <string name="appartment"></string>
+    <string name="rupees">₹20,000/2BHK Appartment</string>
+    <string name="banasankari">Banasankari stage 3 Bangoluru</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="thasound">1000 sq ft</string>
+
+    <string name="facebook_app_id">258778749170799</string>
+    <string name="fb_login_protocol_scheme">fb258778749170799</string>
+
+
+</resources>
